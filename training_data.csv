@@ -1,3 +1,5 @@
-Alt,Bar,Fri,Hun,Pat,Price,Rain,Res,Type,Est,WillWait
-T,F,F,T,Some,$$$,F,T,French,0-10,T
-T,F,F,T,Full,$,F,F,Thai,30-60,F
+Datum,Alt,Bar,Fri,Hun,Pat,Price,Rain,Res,Type,Est,WillWait
+X1,T,F,F,T,Some,$$$,F,T,French,0-10,T
+X2,T,F,F,T,Full,$,F,F,Thai,30-60,F
+X3,F,T,F,F,Some,$,F,F,Burger,0-10,T
+X4,T,F,T,T,Full,$,F,F,Thai,10-30,T
