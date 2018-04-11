@@ -1,4 +1,4 @@
-Datum,Alt,Bar,Fri,Hun,Pat,Price,Rain,Res,Type,Est,WillWait
+Datum,Alt,Bar,Fri,Hun,Patrons,Price,Rain,Res,Type,Est,WillWait
 X1,T,F,F,T,Some,$$$,F,T,French,0-10,T
 X2,T,F,F,T,Full,$,F,F,Thai,30-60,F
 X3,F,T,F,F,Some,$,F,F,Burger,0-10,T
